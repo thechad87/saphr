@@ -142,6 +142,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -1057,7 +1058,7 @@
       <updated>1565182635643</updated>
       <workItem from="1565182639840" duration="15433000" />
       <workItem from="1565733106735" duration="207000" />
-      <workItem from="1565762051985" duration="26488000" />
+      <workItem from="1565762051985" duration="26650000" />
     </task>
     <task id="LOCAL-00001" summary="second commit - assignment completed">
       <created>1565791036877</created>
@@ -1066,7 +1067,14 @@
       <option name="project" value="LOCAL" />
       <updated>1565791036877</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second commit - assignment completed">
+      <created>1565791409153</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565791409153</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1102,7 +1110,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42128000" />
+    <option name="totallyTimeSpent" value="42290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
